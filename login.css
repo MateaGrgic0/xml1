@@ -1,0 +1,35 @@
+
+html, body { font-family: arial, sans-serif;  background: #e7e4e4;
+}
+.forma {
+  padding: 50px;
+  background: #e7e4e4;
+  max-width: 300px;
+  margin: auto;
+}
+.forma h1 {
+  font-size: 23px;
+  text-align: center;
+  margin: 0;
+  color: #9b9b8d;
+}
+.forma label, .forma input {
+  box-sizing: border-box;
+  display: block;
+  text-align: left;
+  width: 100%;
+  margin-top: 8px;
+}
+.forma input { padding: 10px; }
+.forma input[type=submit] {
+  background: #4368ad;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  text-align: center;
+  border: 0;
+}
+#myButton{
+  margin-left: 47%;
+
+
+}
